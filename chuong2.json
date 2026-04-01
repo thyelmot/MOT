@@ -1,0 +1,739 @@
+[
+  {
+    "id": 1,
+    "question": "Vị trí của cách mạng miền Bắc được xác định trong Đại hội đại biểu toàn quốc lần thứ III (9/1960) là:",
+    "options": {
+      "A": "Là hậu phương có vai trò quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam.",
+      "B": "Là tiền tuyến có vai trò quyết định nhất đối với sự nghiệp giải phóng miền Nam.",
+      "C": "Là tiền tuyến có vai trò quyết định nhất đối với sự nghiệp thống nhất nước nhà.",
+      "D": "Là hậu phương có vai trò quyết định nhất đối với sự nghiệp cách mạng cả nước."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 2,
+    "question": "Hai nhiệm vụ chiến lược của Đảng để giữ vững thành quả cách mạng 1945 là gì?",
+    "options": {
+      "A": "Thành lập chính phủ chính thức và thông qua hiến pháp mới.",
+      "B": "Quyết tâm kháng chiến chống Pháp xâm lược và trừng trị bọn nội phản.",
+      "C": "Củng cố, bảo vệ chính quyền cách mạng và ra sức xây dựng chế độ mới.",
+      "D": "Thực hiện nền giáo dục mới và giải quyết nạn đói."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Nội dung của đường lối kháng chiến chống thực dân Pháp của ta KHÔNG được thể hiện trong văn kiện nào sau đây?",
+    "options": {
+      "A": "Lời kêu gọi toàn quốc kháng chiến của chủ tịch Hồ Chí Minh.",
+      "B": "Bản chỉ thị toàn dân kháng chiến của ban thường vụ trung ương Đảng.",
+      "C": "Chỉ thị phải “phá tan cuộc tấn công mùa đông của giặc Pháp”.",
+      "D": "Tác phẩm kháng chiến nhất định thắng lợi của Tổng bí thư Trường Chinh."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Kịp thời chuyển hướng phương châm tác chiến từ “đánh nhanh, thắng nhanh” sang “đánh chắc, tiến chắc”, “đánh chắc thắng” là chủ trương của ta trong chiến dịch:",
+    "options": {
+      "A": "Điện Biên Phủ năm 1954.",
+      "B": "Biên giới thu đông 1950.",
+      "C": "Hồ Chí Minh năm 1975.",
+      "D": "Việt Bắc thu đông 1947."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Nội dung nào sau đây KHÔNG phải là chủ trương của Đảng ta trong chiến dịch Biên giới thu đông năm 1950?",
+    "options": {
+      "A": "Khai thông con đường sang Trung Quốc và thế giới.",
+      "B": "Nhằm tiêu diệt một bộ phận sinh lực địch.",
+      "C": "Phải phá tan cuộc tấn công mùa đông của giặc Pháp.",
+      "D": "Mở rộng và củng cố căn cứ địa Việt Bắc."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Quân và dân ta thực hiện được khẩu hiệu “đánh cho Mĩ cút” thông qua thắng lợi nào dưới đây?",
+    "options": {
+      "A": "Trận Điện Biên Phủ trên không năm 1972.",
+      "B": "Hiệp định Pari về Việt Nam năm 1973.",
+      "C": "Cuộc Tiến công chiến lược năm 1972.",
+      "D": "Tổng tiến công và nổi dậy xuân 1975."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Quyết định cơ bản của Hội nghị Ban chấp hành Trung ương lần thứ 15 (1-1959) là gì?",
+    "options": {
+      "A": "Giành chính quyền bằng con đường đấu tranh hòa bình.",
+      "B": "Sử dụng bạo lực cách mạng để đánh đổ chính quyền Mĩ- Diệm.",
+      "C": "Nhờ sự giúp đỡ của các nước ngoài để đánh Mĩ- Diệm.",
+      "D": "Dùng đấu tranh ngoại giao để đánh đổ ách thống trị Mĩ - Diệm."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Ban Chấp hành Trung ương Đảng họp Hội nghị lần thứ 21 (7/1973) đã nêu rõ nhiệm vụ cơ bản của cách mạng miền Nam là:",
+    "options": {
+      "A": "Đòi Mĩ và chính quyền Sài Gòn thi hành Hiệp định Pari.",
+      "B": "Thực hiện triệt để khẩu hiệu “người cày có ruộng”.",
+      "C": "Xây dựng và củng cố vùng giải phóng rộng lớn trong cả nước.",
+      "D": "Tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Biện pháp của Đảng để đối phó với quân Trung Hoa Dân Quốc và bọn phản cách mạng ở miền Bắc là nhân nhượng cho chúng một số yêu sách về:",
+    "options": {
+      "A": "Kinh tế, chính trị.",
+      "B": "Kinh tế, văn hóa.",
+      "C": "Kinh tế, quân sự.",
+      "D": "Chính trị, quân sự."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Tổ chức chính trị được ra đời từ trong phong trào Đồng Khởi là:",
+    "options": {
+      "A": "Mặt trận thống nhất dân tộc phản đế Đông Dương.",
+      "B": "Chính phủ cách mạng lâm thời cộng hòa Miền Nam Việt Nam.",
+      "C": "Mặt trận dân tộc giải phóng Miền nam Việt Nam.",
+      "D": "Mặt trận Việt Nam độc lập đồng minh."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Để khắc phục tình trạng khó khăn về tài chính sau Cách mạng tháng Tám, Đảng, Chính phủ đã có chủ trương trước mắt nào sau đây?",
+    "options": {
+      "A": "“Quỹ độc lập”.",
+      "B": "“Ngày đồng tâm”.",
+      "C": "“Tăng gia sản xuất”.",
+      "D": "“Không một tấc đất bỏ hoang”."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Chính phủ và Chủ tịch Hồ Chí Minh kêu gọi đồng bào thực hiện “Tuần lễ vàng”, “Quỹ độc lập” nhằm mục đích gì?",
+    "options": {
+      "A": "Giải quyết nạn mù chữ.",
+      "B": "Xây dựng chính quyền cách mạng.",
+      "C": "Giải quyết khó khăn về tài chính.",
+      "D": "Hỗ trợ giải quyết nạn đói."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Chính sách nhân nhượng quân Trung Hoa Dân quốc của Chính phủ Việt Nam Dân chủ Cộng hòa có tác dụng như thế nào đối với công cuộc chống thù trong giặc ngoài sau Cách mạng tháng Tám năm 1945?",
+    "options": {
+      "A": "Để ta tập trung đối phó với cuộc xâm lược của Pháp ở Nam Bộ.",
+      "B": "Khiến quân Trung Hoa Dân quốc phải rút về nước.",
+      "C": "Khiến quân Trung Hoa Dân quốc không có thời gian cấu kết với Pháp.",
+      "D": "Tạo điều kiện để các nước Đồng minh vào giúp nhân dân ta."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Trên cơ sở phân tích tình hình Điện Biên Phủ, Trung ương Đảng quyết định mở Chiến dịch Điện Biên Phủ, biến Điện Biên Phủ thành điểm:",
+    "options": {
+      "A": "Giao chiến đầu tiên giữa ta và Pháp.",
+      "B": "Tấn công tiêu diệt toàn bộ quân Pháp.",
+      "C": "Quyết chiến chiến lược giữa ta và địch.",
+      "D": "Chiến đấu một mất, một còn giữa ta và Pháp."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Khẩu hiệu mà ta nêu ra trong Chiến dịch Điện Biên Phủ là:",
+    "options": {
+      "A": "“Tất cả cho tiền tuyến, tất cả để chiến thắng!”.",
+      "B": "“Tất cả để đánh thắng địch ở Điện Biên Phủ”.",
+      "C": "“Thà hy sinh tất cả để đánh thắng địch ở Điện Biên Phủ”.",
+      "D": "“Tất cả cho chiến dịch được toàn thắng”."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Văn kiện nào sau đây có ý nghĩa to lớn như lời hịch cứu quốc, như mệnh lệnh chiến đấu của nhân dân ta trong cuộc kháng chiến chống thực dân Pháp?",
+    "options": {
+      "A": "“Luận cương chính trị” của Đảng Cộng sản Việt Nam.",
+      "B": "“Cương lĩnh chính trị” đầu tiên của Đảng Cộng sản Việt Nam.",
+      "C": "“Lời kêu gọi toàn quốc kháng chiến” của Chủ tịch Hồ Chí Minh.",
+      "D": "“Tuyên ngôn độc lập” của Chủ tịch Hồ Chí Minh."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Đảng chủ trương trường kì kháng chiến vì:",
+    "options": {
+      "A": "Muốn thực dân Pháp từ bỏ mộng xâm lược nước ta.",
+      "B": "Muốn các nước tư bản đồng minh giúp đỡ ta.",
+      "C": "Thực dân Pháp lựa chọn cách đánh lâu dài với ta.",
+      "D": "Tương quan lực lượng ban đầu không có lợi cho ta."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 18,
+    "question": "Để bồi dưỡng sức dân, đặc biệt là nông dân, năm 1953, Đảng và Chính phủ đã:",
+    "options": {
+      "A": "Phát động phong trào «kháng chiến hóa văn hóa».",
+      "B": "Tiếp tục tiến hành cải cách giáo dục trên quy mô cả nước.",
+      "C": "Phát động triệt để giảm tô và cải cách ruộng đất.",
+      "D": "Mở cuộc vận động lao động sản xuất và thực hành tiết kiệm."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Tác dụng của việc nhân nhượng với Trung Hoa Dân quốc ở miền Bắc nước ta?",
+    "options": {
+      "A": "Hạn chế đến mức thấp nhất những hoạt động chống phá của Trung Hoa Dân quốc.",
+      "B": "Từng bước loại dần từng kẻ thù trên đất nước Việt Nam.",
+      "C": "Làm thất bại âm mưu tiêu diệt chính quyền cách mạng Việt Nam của chúng.",
+      "D": "Tạo điều kiện cho ta tập trung đối phó với cuộc xâm lược của Pháp ở Nam Bộ."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Nguyên nhân quan trọng nhất khiến Đảng ta chủ trương khi tạm thời hòa hoãn với Tưởng để chống Pháp, khi hoà hoãn với Pháp để đuổi Tưởng là:",
+    "options": {
+      "A": "Quân Trung Hoa Dân quốc dùng bọn tay sai phá ta từ bên trong.",
+      "B": "Quân Trung Hoa Dân quốc có nhiều âm mưu chống phá cách mạng.",
+      "C": "Thực dân Pháp được sự giúp đỡ, hậu thuẫn của thực dân Anh.",
+      "D": "Chính quyền của ta còn non trẻ, không thể cùng một lúc chống hai kẻ thù."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 21,
+    "question": "Sách lược đối ngoại của Đảng ta từ tháng 9/1945 đến tháng 2/1946 là:",
+    "options": {
+      "A": "Hòa Trung Hoa Dân quốc, đuổi Pháp.",
+      "B": "Hòa hoãn với Pháp và Trung Hoa Dân quốc.",
+      "C": "Hòa Trung Hoa Dân quốc, đánh Pháp.",
+      "D": "Hòa Pháp, đuổi Trung Hoa Dân quốc."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Năm 1951, Đảng ta chủ trương thành lập Liên minh nhân dân Việt - Miên - Lào nhằm:",
+    "options": {
+      "A": "Tăng cường tình đoàn kết nhân dân ba nước Đông Dương.",
+      "B": "Kêu gọi nhân dân ba nước liên minh chống Pháp.",
+      "C": "Tạo sức mạnh tổng hợp đấu tranh chống Pháp.",
+      "D": "Tạo sức mạnh của nhân dân ba nước Đông Dương."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Đặc điểm lớn nhất, độc đáo nhất của cách mạng Việt Nam thời kì 1954-1975 là:",
+    "options": {
+      "A": "Đảng lãnh đạo nhân dân hoàn thành cách mạng dân chủ và xã hội chủ nghĩa trong cả nước.",
+      "B": "Đảng lãnh đạo nhân dân hoàn thành cuộc cách mạng dân chủ nhân dân trong cả nước.",
+      "C": "Một Đảng lãnh đạo nhân dân tiến hành đồng thời hai chiến lược cách mạng ở hai miền Nam- Bắc.",
+      "D": "Đảng lãnh đạo cả nước đi lên xây dựng chủ nghĩa xã hội, tiến hành công nghiệp hóa đất nước."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Bộ Chính trị Trung ương Đảng đề ra kế hoạch giải phóng hoàn toàn miền Nam trong điều kiện lịch sử:",
+    "options": {
+      "A": "Quân Mỹ và quân đội Sài Gòn bắt đầu suy yếu.",
+      "B": "Chính quyền và quân đội Sài Gòn bắt đầu khủng hoảng và suy yếu.",
+      "C": "Tình hình so sánh lực lượng ở miền Nam phần nào có lợi cho cách mạng nước ta.",
+      "D": "Tình hình so sánh lực lượng ở miền Nam thay đổi mau lẹ có lợi cho cách mạng."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Thành công của cuộc Tổng tuyển cử bầu Quốc hội (1946) ở Việt Nam chứng tỏ:",
+    "options": {
+      "A": "Quyền lực nhà nước chính thức thuộc về cơ quan hành pháp.",
+      "B": "Nhân dân bước đầu giành chính quyền, làm chủ đất nước.",
+      "C": "Nhân dân có tinh thần đoàn kết và ý thức làm chủ đất nước.",
+      "D": "Sự ủng hộ to lớn của cộng đồng quốc tế đối với Việt Nam."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Đọc đoạn trích và trả lời câu hỏi: Ngày 01/4/1975, Bộ Chính trị nhận định: Cách mạng nước ta đang phát triển với nhịp độ “một ngày bằng hai mươi năm”.Do vậy, Bộ Chính trị quyết định: \"chúng ta phải nắm vững thời cơ chiến lược, quyết tâm thực hiện tổng tiến công và nổi dậy, kết thúc thắng lợi chiến tranh giải phóng trong thời gian ngắn nhất. Tốt hơn cả là bắt đầu và kết thúc trong tháng 4 năm nay, không để chậm” (Đảng Cộng sản Việt Nam, Văn kiện Đảng Toàn tập, Tập 36, Nxb Chính trị Quốc gia, Hà Nội, 2004, tr.95).Nội dung đoạn trích trên phản ánh chủ trương nào của Bộ Chính trị Trung ương Đảng Cộng sản Việt Nam?",
+    "options": {
+      "A": "Sự nắm bắt thời cơ khách quan thuận lợi cho tiến công.",
+      "B": "Sự thay đổi phương châm tác chiến trên chiến trường.",
+      "C": "Sự điều chỉnh thời gian giải phóng hoàn toàn miền Nam.",
+      "D": "Quyết định chuyển hướng chỉ đạo chiến lược của Đảng."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Trong cuộc kháng chiến chống Pháp (1945-1954), Đảng Cộng sản Đông Dương đề ra đường lối kháng chiến tự lực cánh sinh đã chứng tỏ điều gì?",
+    "options": {
+      "A": "Việt Nam không cần dựa vào sự giúp đỡ của quốc tế.",
+      "B": "Yếu tố khách quan không có vai trò trong cách mạng.",
+      "C": "Độc lập dân tộc phải do chính mình giành và giữ lấy.",
+      "D": "Sự giúp đỡ của các nước không phù hợp với Việt Nam."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Trong những năm 1945 -1946, chính phủ Việt Nam dân chủ Cộng hòa chủ trương hòa hoãn với quân Trung Hoa Dân quốc và thực dân Pháp dựa trên nguyên tắc nào?",
+    "options": {
+      "A": "Duy trì sự lãnh đạo của Đảng.",
+      "B": "Tuân thủ luật pháp quốc tế.",
+      "C": "Giữ vững độc lập dân tộc.",
+      "D": "Giải quyết tranh chấp bằng hòa bình."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Công cụ xây dựng và bảo vệ đất nước Việt Nam Dân chủ Cộng hòa sau năm 1945 là:",
+    "options": {
+      "A": "Một mặt trận dân tộc thông nhất phát triển rộng khắp.",
+      "B": "Một chính sách ngoại giao mềm dẻo, khôn khéo.",
+      "C": "Một nền kinh tế- tài chính từng bước vững mạnh.",
+      "D": "Một bộ máy chính quyền nhà nước dần được hoàn thiện."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 30,
+    "question": "Phương châm chiến lược trong hai cuộc kháng chiến chống Pháp và chống Mĩ xâm lược (1945-1975) của nhân dân Việt Nam có điểm chung nào?",
+    "options": {
+      "A": "Dựa vào chiến tranh du kích là chính.",
+      "B": "Dùng lực lượng mạnh áp đảo kẻ thù.",
+      "C": "Hiệp đồng binh chủng trong mỗi trận đánh.",
+      "D": "Giữ vững tư tưởng tích cực tiến công."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 31,
+    "question": "Bài học cơ bản cho cách mạng Việt Nam được rút ra từ việc tổ chức thành công Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9/1960) là gì?",
+    "options": {
+      "A": "Tập trung xây dựng chủ nghĩa xã hội ở miền Bắc.",
+      "B": "Mềm dẻo linh hoạt trong thực hiện lãnh đạo, chỉ đạo cách mạng.",
+      "C": "Chỉ đạo sâu sát, quyết liệt cho cách mạng miền Nam.",
+      "D": "Chỉ đạo đạo cách mạng cho cả hai miền Bắc - Nam."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Phương châm tác chiến của quân dân ta trong chiến dịch Hồ Chí Minh (4/1975) là:",
+    "options": {
+      "A": "“Cơ động, linh hoạt, chắc thắng”.",
+      "B": "“Đánh nhanh, thắng nhanh”.",
+      "C": "“Tiến ăn chắc, đánh ăn chắc”.",
+      "D": "“Thần tốc, táo bạo, bất ngờ, chắc thắng”."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 33,
+    "question": "Tháng 02-1951, tại Vinh Quang (Chiêm Hóa- Tuyên Quang) đã diễn ra sự kiện nào sau đây?",
+    "options": {
+      "A": "Đại hội thống nhất Mặt trận Việt Minh và Hội Liên Việt.",
+      "B": "Đại hội đại biểu toàn quốc lần thứ II của Đảng cộng sản Đông Dương.",
+      "C": "Đại hội chiến sĩ thi đua và cán bộ gương mẫu toàn quốc lần thứ I.",
+      "D": "Hội nghị đại biểu để thành lập Liên minh nhân dân Việt - Miên - Lào."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Trong cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) địa bàn Tây Nguyên là nơi được Đảng Lao động Việt Nam chọn để mở đầu cho sự kiện trọng đại nào?",
+    "options": {
+      "A": "Cuộc tiến công chiến lược năm 1972.",
+      "B": "Tổng tiến công và nổi dậy Xuân 1975.",
+      "C": "Tổng tiến công và nổi dậy Xuân Mậu Thân 1968.",
+      "D": "Trận “Điện Biên Phủ trên không” năm 1972."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Sự kiện trực tiếp nào đưa đến quyết định toàn quốc kháng chiến của Đảng và Chính phủ?",
+    "options": {
+      "A": "Ngày 18/12 thực dân Pháp đưa liên tiếp ba tối hậu thư cho chính phủ ta.",
+      "B": "Thực dân Pháp liên tiếp tấn công ta ở Nam Bộ và Nam Trung Bộ.",
+      "C": "Hội nghị Phôngtennơblô giữa chính phủ ta và chính phủ Pháp đã thất bại.",
+      "D": "Thực dân Pháp đã chiếm đóng được nhiều nơi ở Hải Phòng và Lạng Sơn."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Đại hội đại biểu toàn quốc lần thứ III (9/1960) xác định “tiền tuyến lớn” trong cuộc kháng chiến chống Mĩ xâm lược là:",
+    "options": {
+      "A": "Miền Bắc.",
+      "B": "Miền Nam.",
+      "C": "Miền Tây.",
+      "D": "Miền Trung."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Trước cuộc tấn công mùa đông của giặc Pháp 1947, Đảng ta quyết tâm bảo vệ căn cứ địa Việt Bắc vì:",
+    "options": {
+      "A": "Việt Bắc là căn cứ địa của ba nước Đông Dương.",
+      "B": "Việt Bắc tập trung các cơ quan đầu não của ta.",
+      "C": "Việt Bắc là chiến trường chính giữa ta và Pháp.",
+      "D": "Việt Bắc là trung tâm của thủ đô Hà Nội."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Sự kiện nào dưới đây chứng tỏ nhân dân Việt Nam đã được thực hiện quyền công dân sau Cách mạng tháng Tám?",
+    "options": {
+      "A": "Tổng tuyển cử bầu Quốc hội trong cả nước (1/1946).",
+      "B": "Kì họp đầu tiên Quốc hội khóa I (3/1946).",
+      "C": "Phát hành tiền Việt Nam (11/1946).",
+      "D": "Nha Bình dân học vụ được thành lập (8/9/1945)."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Quyền dân tộc cơ bản mà nhân dân Việt Nam được ghi nhận trong nội dung Hiệp định Giơ-ne-vơ năm 1954 về Đông Dương là:",
+    "options": {
+      "A": "Quyền tự chủ, dân tộc tự quyết, toàn vẹn lãnh thổ.",
+      "B": "Độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.",
+      "C": "Độc lập, chủ quyền, không can thiệp vào công việc nội bộ.",
+      "D": "Độc lập, thống nhất, quyền tự quyết và quyền bình đẳng."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Tháng 9/1953, Bộ Chính trị Trung ương Đảng đề ra chủ trương tập trung lực lượng mở những cuộc tiến công vào những hướng quan trọng về chiến lược mà địch tương đối yếu nhằm:",
+    "options": {
+      "A": "Buộc thực dân Pháp phải đàm phán để kết thúc chiến tranh.",
+      "B": "Giải phóng vùng Tây Bắc, tạo điều kiện giải phóng Bắc Lào.",
+      "C": "Làm thất bại kế hoạch tập trung binh lực của thực dân Pháp.",
+      "D": "Tiêu diệt toàn bộ quân sự của thực dân Pháp ở Tây Bắc."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Đại hội nào dưới đây của Đảng được xem là “Đại hội kháng chiến thắng lợi”?",
+    "options": {
+      "A": "Đại hội đại biểu toàn quốc lần thứ II (02-1951).",
+      "B": "Đại hội đại biểu toàn quốc lần thứ I (3-1935).",
+      "C": "Đại hội đại biểu toàn quốc lần thứ III (9-1960).",
+      "D": "Đại hội đại biểu toàn quốc lần thứ IV (12-1976)."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Nội dung nào KHÔNG phản ánh rõ đường lối chiến tranh nhân dân của Đảng Lao động Việt Nam được triển khai ở miền Nam Việt Nam trong kháng chiến chống Mĩ?",
+    "options": {
+      "A": "Đánh địch trên cả ba vùng chiến lược, tiến công địch bằng ba mũi giáp công.",
+      "B": "Hoàn thành khởi nghĩa từng phần rồi tiến lên chiến tranh cách mạng.",
+      "C": "Kết hợp đấu tranh quân sự với đấu tranh chính trị và đấu tranh ngoại giao.",
+      "D": "Kết hợp lực lượng chính trị quần chúng và lực lượng vũ trang nhân dân."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 43,
+    "question": "Chiến dịch nào dưới đây thể hiện cách đánh diệt viện của ta?",
+    "options": {
+      "A": "Chiến dịch Tây Bắc.",
+      "B": "Chiến dịch Biên giới thu - đông 1950.",
+      "C": "Chiến dịch hòa bình.",
+      "D": "Chiến dịch Việt Bắc thu đông 1947."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Cuối năm 1974 đầu năm 1975, Bộ Chính trị Trung ương Đảng đề ra chủ trương, kế hoạch giải phóng miền Nam Việt Nam dựa trên cơ sở quan trọng nào?",
+    "options": {
+      "A": "Quân đội Sài Gòn không đề ra các biện pháp kháng cự.",
+      "B": "Ý chí quyết tâm thống nhất đất nước của nhân dân hai miền.",
+      "C": "Mĩ đã ngừng viện trợ cho chính quyền và quân đội Sài Gòn.",
+      "D": "Mĩ đã rút toàn bộ lực lượng quân sự ra khỏi miền Nam."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 45,
+    "question": "Đọc đoạn tư liệu và trả lời câu hỏi: “Muốn củng cố nền tự do, độc lập, chúng ta cần sức hy sinh phấn đấu của toàn quốc đồng bào; nhưng chúng ta cũng rất cần sự quyên giúp của nhân dân, nhất là những nhà giầu có. Ý nghĩa của Tuần lễ vàng là ở đó” (Hồ Chí Minh toàn tập, tập 4, trang 16).Việc tổ chức thành công Tuần lễ vàng năm 1945 ở Việt Nam đã chứng tỏ điều gì?",
+    "options": {
+      "A": "Xây dụng nền tài chính độc lập là nhiệm vụ đầu tiên và quan trọng nhất của cách mạng.",
+      "B": "Việt Nam đã có đủ tiềm lực để tiến hành kháng chiến chống thực dân Pháp ở miền Nam.",
+      "C": "Chính quyền cách mạng đã hoàn thành cải tạo xã hội chủ nghĩa đối với giai cấp địa chủ.",
+      "D": "Sự sáng tạo của Đảng và Chính phủ trong việc huy động quần chung tham gia việc nước."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "question": "Văn kiện nào dưới đây được thông qua tại Đại hội đại biểu toàn quốc lần II (2/1951)?",
+    "options": {
+      "A": "Cương lĩnh chính trị đầu tiên của Đảng.",
+      "B": "Sách lược vắn tắt, điều lệ vắn tắt của Đảng.",
+      "C": "Luận cương chính trị của Trần Phú.",
+      "D": "Báo cáo chính trị của Chủ tịch Hồ Chí Minh."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "question": "Ngày 8/9/1945, Chủ tịch Hồ Chí Minh kí sắc lệnh gì dưới đây?",
+    "options": {
+      "A": "Thành lập Nha An ninh - quân đội.",
+      "B": "Thành lập Nha Bình dân học vụ.",
+      "C": "Thành lập quân đội quốc gia Việt Nam.",
+      "D": "Thành lập Nha Cảnh sát quốc gia."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "question": "“…Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta lần nữa…”. Đoạn trích trong “Lời kêu gọi toàn quốc kháng chiến” của Chủ tịch Hồ Chí Minh đã phản ánh:",
+    "options": {
+      "A": "Thiện chí hòa bình của Đảng, Chính phủ, nhân dân Việt Nam.",
+      "B": "Quyết tâm chống Pháp của dân tộc Việt Nam.",
+      "C": "Tội ác của thực dân Pháp.",
+      "D": "Quyết tâm xâm lược của thực dân Pháp."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 49,
+    "question": "Nguyên nhân chủ quan cơ bản nhất dẫn đến thắng lợi của cuộc kháng chiến chống Mĩ cứu nước là:",
+    "options": {
+      "A": "Sự lãnh đạo sáng suốt của Đảng đứng đầu là chủ tịch Hồ Chí Minh.",
+      "B": "Truyền thống yêu nước, đoàn kết của nhân dân ta.",
+      "C": "Hậu phương miền Bắc không ngừng lớn mạnh.",
+      "D": "Tinh thần chiến đấu dũng cảm của quân dân cả nước."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Đảng và Chính phủ quyết định kêu gọi toàn dân kháng chiến chống thực dân Pháp vào 12/1946 vì:",
+    "options": {
+      "A": "không thể tiếp tục nhân nhượng trước những hành động xâm lược của Pháp.",
+      "B": "tiềm lực cho cuộc kháng chiến lâu dài của ta đã chuẩn bị đầy đủ.",
+      "C": "nhờ có sự ủng hộ to lớn của Liên Xô và Trung Quốc giúp ta đánh Pháp.",
+      "D": "lợi dụng thời điểm Pháp đang trên đà thất bại, ta đánh đuổi Pháp về nước."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 51,
+    "question": "Đảng ta đã phát động cuộc kháng chiến toàn quốc chống thực dân Pháp xuất phát từ lí do chủ yếu nào?",
+    "options": {
+      "A": "Thực dân Pháp khiêu khích tấn công ta ở Hà Nội.",
+      "B": "Chúng ta muốn hòa bình xây dựng đất nước.",
+      "C": "Nền độc lập chủ quyền nước ta bị đe dọa nghiêm trọng.",
+      "D": "Pháp không thực hiện Hiệp định sơ bộ 06-3-1946 và Tạm ước 14-9-1946."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Sách lược đấu tranh chống ngoại xâm của ta trong năm đầu sau Cách mạng tháng Tám chứng tỏ:",
+    "options": {
+      "A": "Đập tan âm mưu xâm lược nước ta lần thứ hai của thực dân Pháp.",
+      "B": "Đường lối sáng suốt, cứng rắn về nguyên tắc, mềm dẻo về sách lược của Đảng.",
+      "C": "Phát huy thuận lợi, khắc phục khó khăn, xây dựng bảo vệ chính quyền cách mạng.",
+      "D": "Truyền thống yêu nước, tinh thần đấu tranh bảo vệ tổ quốc của nhân dân ta."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "question": "Phương hướng cách mạng miền Nam trong chiến đấu trong chiến lược “chiến tranh đặc biệt” được Đảng xác định như thế nào?",
+    "options": {
+      "A": "Kết hợp chặt chẽ lực lượng chính trị và lực lượng vũ trang.",
+      "B": "Tổng tiến công quân sự kết hợp với đấu tranh ngoại giao.",
+      "C": "Sử dụng bạo lực cách mạng, tổng khởi nghĩa giành chính quyền.",
+      "D": "Tiến hành chiến tranh bằng hình thức tiến công và nổi dậy."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Một trong những nhiệm vụ xuyên suốt của cách mạng miền Bắc từ năm 1960 đến năm 1975 là:",
+    "options": {
+      "A": "Thực hiện cải cách ruộng đất qui mô lớn.",
+      "B": "Xóa bỏ giai cấp địa chủ phong kiến ở miền Bắc.",
+      "C": "Tiến hành công nghiệp hóa xã hội chủ nghĩa.",
+      "D": "Chống chiến tranh phá hoại của đế quốc Mĩ."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Hội nghị Bộ chính trị Trung ương Đảng (9-1953) đề ra kế hoạch Đông - Xuân (1953-1954) với quyết tâm giữ vững quyền chủ động đánh địch trên cả hai mặt trận nào?",
+    "options": {
+      "A": "Chính trị và ngoại giao.",
+      "B": "Chính trị và quân sự.",
+      "C": "Quân sự và ngoại giao.",
+      "D": "Chính diện và sau lưng địch."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 56,
+    "question": "Chỉ thị “Kháng chiến kiến quốc” (25/11/1945) của Ban Chấp hành Trung ương Đảng xác định kẻ thù chính của ta lúc này là?",
+    "options": {
+      "A": "Thực dân Pháp",
+      "B": "Phát xít Nhật.",
+      "C": "Thực dân Anh.",
+      "D": "Trung Hoa Dân quốc."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 57,
+    "question": "Nhiệm vụ của Cách mạng miền Nam Việt Nam sau 1954 là:",
+    "options": {
+      "A": "Hàn gắn vết thương chiến tranh, khôi phục và phát triển kinh tế.",
+      "B": "Chống lại sự bắn phá và ném bom ác liệt của chính quyền Mĩ- Diệm.",
+      "C": "Tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân, thực hiện thống nhất nước nhà.",
+      "D": "Tiến hành đấu tranh vũ trang để đánh bại chiến tranh xâm lược của Mĩ, Diệm."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "question": "Bộ Chính trị Trung ương Đảng đã lựa chọn địa bàn nào là hướng tiến công chủ yếu trong năm 1975?",
+    "options": {
+      "A": "Huế.",
+      "B": "Phước Long.",
+      "C": "Đà Nẵng.",
+      "D": "Tây Nguyên."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 59,
+    "question": "Sự kiện nào sau đây khiến Đảng ta thay đổi chiến lược từ hoà hoãn với Tưởng để chống Pháp sang hòa hoãn với Pháp để đuổi Tưởng?",
+    "options": {
+      "A": "Hiệp định Sơ bộ Việt - Pháp được kí kết (6-3-1946).",
+      "B": "Hiệp ước Hoa - Pháp được kí kết (28-02-1946).",
+      "C": "Tạm ước Việt - Pháp được kí kết (14-9-1946).",
+      "D": "Thực dân Pháp nổ súng xâm lược nước ta lần thứ hai (23/9/1945)."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "question": "Đông Khê được chọn là nơi mở đầu chiến dịch Biên giới thu - đông năm 1950 của quân dân Việt Nam, vì đó là vị trí:",
+    "options": {
+      "A": "Ít quan trọng nên quân Pháp không chú ý phòng thủ.",
+      "B": "Có thể đột phá, chia cắt tuyến phòng thủ của quân Pháp.",
+      "C": "Án ngữ hành lang Đông- Tây của thực dân Pháp.",
+      "D": "Quan trọng nhất và tập trung cao nhất binh lực của Pháp."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 61,
+    "question": "Lời kêu gọi toàn quốc kháng chiến của chủ tịch Hồ Chí Minh (19/12/1946) đã?",
+    "options": {
+      "A": "Đưa cách mạng Việt Nam bước vào giai đoạn vừa đánh vừa đàm với Pháp.",
+      "B": "Hoàn chỉnh những nội dung của đường lối kháng chiến chống Pháp.",
+      "C": "Đáp ứng đòi hỏi khách quan của lịch sử và nguyện vọng của nhân dân.",
+      "D": "Làm thất bại âm mưu đánh nhanh thắng nhanh của thực dân Pháp."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Thời cơ chiến lược đã đến, ta có điều kiện hoàn thành sớm quyết tâm giải phóng miền Nam… Đó là Nghị quyết nào của Đảng ta?",
+    "options": {
+      "A": "Hội nghị Bộ Chính trị mở rộng họp từ 18-12-1974 đến 08-01-1975.",
+      "B": "Hội nghị Bộ Chính trị họp từ 30-9 đến 07-10-1974.",
+      "C": "Nghị quyết của Bộ Chính trị ngày 25-3-1975.",
+      "D": "Hội nghị lần thứ 21 của Trung ương Đảng vào tháng 7-1973."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Nguyên tắc quan trọng nhất của Đảng, Chính phủ và nhân dân Việt Nam trong việc kí Hiệp định Sơ bộ (06/3/1946) và Hiệp định Giơnevơ (21/7/1954) là:",
+    "options": {
+      "A": "Đảm bảo giành thắng lợi từng bước.",
+      "B": "Giữ vững vai trò lãnh đạo của Đảng.",
+      "C": "Không vi phạm chủ quyền dân tộc.",
+      "D": "Phân hóa và cô lập cao độ kẻ thù."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 64,
+    "question": "Hội nghị lần thứ 15 Ban chấp hành Trung ương Đảng (01/1959) đã để lại bài học kinh nghiệm nào cho Đảng trong quá trình lãnh đạo cách mạng Việt Nam?",
+    "options": {
+      "A": "Sử dụng bạo lực cách mạng giành chính quyền về tay nhân dân.",
+      "B": "Sử dụng con đường đấu tranh ngoại giao giành chính quyền.",
+      "C": "Sử dụng con đường đấu tranh vũ trang giành chính quyền.",
+      "D": "Sử dụng con đường đấu tranh chính trị kết hợp đấu tranh vũ trang."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "question": "Vì sao Bộ Chính trị Trung ương Đảng lựa chọn Tây Nguyên là hướng tiến công chiến lược đầu tiên trong cuộc Tổng tiến công và nổi dậy Xuân 1975?",
+    "options": {
+      "A": "Chiếm được Tây Nguyên sẽ cắt đôi chiến trường miền Nam.",
+      "B": "Tây Nguyên là căn cứ liên hợp quân sự mạnh nhất của Mĩ - Ngụy ở miền Nam.",
+      "C": "Tây Nguyên có vị trí chiến lược quan trọng, địch tập trung lực lượng dày đặc.",
+      "D": "Tây Nguyên là địa bàn chiến lược quan trọng, nhưng lực lượng địch mỏng bố trí sơ hở."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 66,
+    "question": "Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam (1- 1959) quyết định để nhân dân miền Nam sử dụng bạo lực cách mạng là vì:",
+    "options": {
+      "A": "Lực lượng vũ trang cách mạng miền Nam đã phát triển.",
+      "B": "Ta không thể tiếp tục sử dụng biện pháp hoà bình được nữa.",
+      "C": "Miền Nam đã có lực lượng chính trị và lực lượng vũ trang lớn mạnh.",
+      "D": "Mĩ và chính quyền Sài Gòn phá hoại Hiệp định Giơnevơ."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Nhận xét nào sau đây là đúng về bản Hiệp định Sơ bộ (6/3/1946)?",
+    "options": {
+      "A": "Công nhận Việt Nam là một quốc gia tự do, có quyền dân tộc tự quyết.",
+      "B": "Là sách lược của Việt Nam để kéo dài thời gian hòa hoãn với Pháp.",
+      "C": "Chuyển Pháp từ vị trí đối tác thành đối tượng của cách mạng Việt Nam.",
+      "D": "Biến hiệp ước 2 bên thành thỏa thuận 3 bên có lợi cho cách mạng."
+    },
+    "correctAnswer": "D"
+  }
+]
